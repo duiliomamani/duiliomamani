@@ -1,0 +1,433 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="958" height="236" viewBox="0 0 958 236" role="img" aria-labelledby="title description">
+  <title id="title">Gabumon contribution field for duiliomamani</title>
+  <desc id="description">A small Gabumon-inspired character travels across a contribution calendar with 165 contributions in the displayed year.</desc>
+  <style>
+    .bg { fill: #ffffff; }
+    .title { fill: #1f2328; font: 700 16px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; }
+    .subtitle { fill: #59636e; font: 12px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; }
+    .month { fill: #59636e; font: 10px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; }
+    .runner { transform-box: view-box; transform-origin: 0 0; animation: travel 18s linear infinite alternate; }
+    .monster { animation: bob .32s steps(2,end) infinite alternate; }
+    @keyframes travel { from { transform: translateX(0); } to { transform: translateX(786px); } }
+    @keyframes bob { from { translate: 0 0; } to { translate: 0 -2px; } }
+    @media (prefers-reduced-motion: reduce) { .runner, .monster { animation: none; } }
+  </style>
+  <rect class="bg" width="100%" height="100%" rx="14"/>
+  <text x="24" y="31" class="title">GABUMON · CONTRIBUTION FIELD</text>
+  <text x="24" y="50" class="subtitle">duiliomamani · 165 contributions this year</text>
+  <text x="76" y="68" class="month">Nov</text>
+<text x="156" y="68" class="month">Dec</text>
+<text x="220" y="68" class="month">Jan</text>
+<text x="300" y="68" class="month">Feb</text>
+<text x="364" y="68" class="month">Mar</text>
+<text x="428" y="68" class="month">Apr</text>
+<text x="492" y="68" class="month">May</text>
+<text x="572" y="68" class="month">Jun</text>
+<text x="636" y="68" class="month">Jul</text>
+<text x="700" y="68" class="month">Aug</text>
+<text x="780" y="68" class="month">Sep</text>
+<text x="844" y="68" class="month">Oct</text>
+  <g aria-label="Contribution calendar"><rect x="76" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-10-26" data-count="0"/>
+<rect x="76" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-10-27" data-count="0"/>
+<rect x="76" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-10-28" data-count="0"/>
+<rect x="76" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-10-29" data-count="0"/>
+<rect x="76" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-10-30" data-count="0"/>
+<rect x="76" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-10-31" data-count="0"/>
+<rect x="76" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-01" data-count="0"/>
+<rect x="92" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-02" data-count="0"/>
+<rect x="92" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-03" data-count="0"/>
+<rect x="92" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-04" data-count="0"/>
+<rect x="92" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-05" data-count="0"/>
+<rect x="92" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-06" data-count="0"/>
+<rect x="92" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-07" data-count="0"/>
+<rect x="92" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-08" data-count="0"/>
+<rect x="108" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-09" data-count="0"/>
+<rect x="108" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-10" data-count="0"/>
+<rect x="108" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-11" data-count="0"/>
+<rect x="108" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-12" data-count="0"/>
+<rect x="108" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-13" data-count="0"/>
+<rect x="108" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-14" data-count="0"/>
+<rect x="108" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-15" data-count="0"/>
+<rect x="124" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-16" data-count="0"/>
+<rect x="124" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-17" data-count="0"/>
+<rect x="124" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-18" data-count="0"/>
+<rect x="124" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-19" data-count="0"/>
+<rect x="124" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-20" data-count="0"/>
+<rect x="124" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-21" data-count="0"/>
+<rect x="124" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-22" data-count="0"/>
+<rect x="140" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-23" data-count="0"/>
+<rect x="140" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-24" data-count="0"/>
+<rect x="140" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-25" data-count="0"/>
+<rect x="140" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-26" data-count="0"/>
+<rect x="140" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-27" data-count="0"/>
+<rect x="140" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-28" data-count="0"/>
+<rect x="140" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-29" data-count="0"/>
+<rect x="156" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-11-30" data-count="0"/>
+<rect x="156" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-01" data-count="0"/>
+<rect x="156" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-02" data-count="0"/>
+<rect x="156" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-03" data-count="0"/>
+<rect x="156" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-04" data-count="0"/>
+<rect x="156" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-05" data-count="0"/>
+<rect x="156" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-06" data-count="0"/>
+<rect x="172" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-07" data-count="0"/>
+<rect x="172" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-08" data-count="0"/>
+<rect x="172" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-09" data-count="0"/>
+<rect x="172" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-10" data-count="0"/>
+<rect x="172" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-11" data-count="0"/>
+<rect x="172" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-12" data-count="0"/>
+<rect x="172" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-13" data-count="0"/>
+<rect x="188" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-14" data-count="0"/>
+<rect x="188" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-15" data-count="0"/>
+<rect x="188" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-16" data-count="0"/>
+<rect x="188" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-17" data-count="0"/>
+<rect x="188" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-18" data-count="0"/>
+<rect x="188" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-19" data-count="0"/>
+<rect x="188" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-20" data-count="0"/>
+<rect x="204" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-21" data-count="0"/>
+<rect x="204" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-22" data-count="0"/>
+<rect x="204" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-23" data-count="0"/>
+<rect x="204" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-24" data-count="0"/>
+<rect x="204" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-25" data-count="0"/>
+<rect x="204" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-26" data-count="0"/>
+<rect x="204" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-27" data-count="0"/>
+<rect x="220" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-28" data-count="0"/>
+<rect x="220" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-29" data-count="0"/>
+<rect x="220" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-30" data-count="0"/>
+<rect x="220" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2025-12-31" data-count="0"/>
+<rect x="220" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-01" data-count="0"/>
+<rect x="220" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-02" data-count="0"/>
+<rect x="220" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-03" data-count="0"/>
+<rect x="236" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-04" data-count="0"/>
+<rect x="236" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-05" data-count="0"/>
+<rect x="236" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-06" data-count="0"/>
+<rect x="236" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-07" data-count="0"/>
+<rect x="236" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-08" data-count="0"/>
+<rect x="236" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-09" data-count="0"/>
+<rect x="236" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-10" data-count="0"/>
+<rect x="252" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-11" data-count="0"/>
+<rect x="252" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-12" data-count="0"/>
+<rect x="252" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-13" data-count="0"/>
+<rect x="252" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-14" data-count="0"/>
+<rect x="252" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-15" data-count="0"/>
+<rect x="252" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-16" data-count="0"/>
+<rect x="252" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-17" data-count="0"/>
+<rect x="268" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-18" data-count="0"/>
+<rect x="268" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-19" data-count="0"/>
+<rect x="268" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-20" data-count="0"/>
+<rect x="268" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-21" data-count="0"/>
+<rect x="268" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-22" data-count="0"/>
+<rect x="268" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-23" data-count="0"/>
+<rect x="268" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-24" data-count="0"/>
+<rect x="284" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-25" data-count="0"/>
+<rect x="284" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-26" data-count="0"/>
+<rect x="284" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-27" data-count="0"/>
+<rect x="284" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-28" data-count="0"/>
+<rect x="284" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-29" data-count="0"/>
+<rect x="284" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-30" data-count="0"/>
+<rect x="284" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-01-31" data-count="0"/>
+<rect x="300" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-01" data-count="0"/>
+<rect x="300" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-02" data-count="0"/>
+<rect x="300" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-03" data-count="0"/>
+<rect x="300" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-04" data-count="0"/>
+<rect x="300" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-05" data-count="0"/>
+<rect x="300" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-06" data-count="0"/>
+<rect x="300" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-07" data-count="0"/>
+<rect x="316" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-08" data-count="0"/>
+<rect x="316" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-09" data-count="0"/>
+<rect x="316" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-10" data-count="0"/>
+<rect x="316" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-11" data-count="0"/>
+<rect x="316" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-12" data-count="0"/>
+<rect x="316" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-13" data-count="0"/>
+<rect x="316" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-14" data-count="0"/>
+<rect x="332" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-15" data-count="0"/>
+<rect x="332" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-16" data-count="0"/>
+<rect x="332" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-17" data-count="0"/>
+<rect x="332" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-18" data-count="0"/>
+<rect x="332" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-19" data-count="0"/>
+<rect x="332" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-20" data-count="0"/>
+<rect x="332" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-21" data-count="0"/>
+<rect x="348" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-22" data-count="0"/>
+<rect x="348" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-23" data-count="0"/>
+<rect x="348" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-24" data-count="0"/>
+<rect x="348" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-25" data-count="0"/>
+<rect x="348" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-26" data-count="0"/>
+<rect x="348" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-27" data-count="0"/>
+<rect x="348" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-02-28" data-count="0"/>
+<rect x="364" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-01" data-count="0"/>
+<rect x="364" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-02" data-count="0"/>
+<rect x="364" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-03" data-count="0"/>
+<rect x="364" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-04" data-count="0"/>
+<rect x="364" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-05" data-count="0"/>
+<rect x="364" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-06" data-count="0"/>
+<rect x="364" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-07" data-count="0"/>
+<rect x="380" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-08" data-count="0"/>
+<rect x="380" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-09" data-count="0"/>
+<rect x="380" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-10" data-count="0"/>
+<rect x="380" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-11" data-count="0"/>
+<rect x="380" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-12" data-count="0"/>
+<rect x="380" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-13" data-count="0"/>
+<rect x="380" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-14" data-count="0"/>
+<rect x="396" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-15" data-count="0"/>
+<rect x="396" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-16" data-count="0"/>
+<rect x="396" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-17" data-count="0"/>
+<rect x="396" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-18" data-count="0"/>
+<rect x="396" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-19" data-count="0"/>
+<rect x="396" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-20" data-count="0"/>
+<rect x="396" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-21" data-count="0"/>
+<rect x="412" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-22" data-count="0"/>
+<rect x="412" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-23" data-count="0"/>
+<rect x="412" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-24" data-count="0"/>
+<rect x="412" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-25" data-count="0"/>
+<rect x="412" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-26" data-count="0"/>
+<rect x="412" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-27" data-count="0"/>
+<rect x="412" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-28" data-count="0"/>
+<rect x="428" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-29" data-count="0"/>
+<rect x="428" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-30" data-count="0"/>
+<rect x="428" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-03-31" data-count="0"/>
+<rect x="428" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-01" data-count="0"/>
+<rect x="428" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-02" data-count="0"/>
+<rect x="428" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-03" data-count="0"/>
+<rect x="428" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-04" data-count="0"/>
+<rect x="444" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-05" data-count="0"/>
+<rect x="444" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-06" data-count="0"/>
+<rect x="444" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-07" data-count="0"/>
+<rect x="444" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-08" data-count="0"/>
+<rect x="444" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-09" data-count="0"/>
+<rect x="444" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-10" data-count="0"/>
+<rect x="444" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-11" data-count="0"/>
+<rect x="460" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-12" data-count="0"/>
+<rect x="460" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-13" data-count="0"/>
+<rect x="460" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-14" data-count="0"/>
+<rect x="460" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-15" data-count="0"/>
+<rect x="460" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-16" data-count="0"/>
+<rect x="460" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-17" data-count="0"/>
+<rect x="460" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-18" data-count="0"/>
+<rect x="476" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-19" data-count="0"/>
+<rect x="476" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-20" data-count="0"/>
+<rect x="476" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-21" data-count="0"/>
+<rect x="476" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-22" data-count="0"/>
+<rect x="476" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-23" data-count="0"/>
+<rect x="476" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-24" data-count="0"/>
+<rect x="476" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-25" data-count="0"/>
+<rect x="492" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-26" data-count="0"/>
+<rect x="492" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-27" data-count="0"/>
+<rect x="492" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-28" data-count="0"/>
+<rect x="492" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-29" data-count="0"/>
+<rect x="492" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-04-30" data-count="0"/>
+<rect x="492" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-01" data-count="0"/>
+<rect x="492" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-02" data-count="0"/>
+<rect x="508" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-03" data-count="0"/>
+<rect x="508" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-04" data-count="0"/>
+<rect x="508" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-05" data-count="0"/>
+<rect x="508" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-06" data-count="0"/>
+<rect x="508" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-07" data-count="0"/>
+<rect x="508" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-08" data-count="0"/>
+<rect x="508" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-09" data-count="0"/>
+<rect x="524" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-10" data-count="0"/>
+<rect x="524" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-11" data-count="0"/>
+<rect x="524" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-12" data-count="0"/>
+<rect x="524" y="140" width="12" height="12" rx="3" fill="#7bc96f" data-date="2026-05-13" data-count="13"/>
+<rect x="524" y="156" width="12" height="12" rx="3" fill="#196127" data-date="2026-05-14" data-count="37"/>
+<rect x="524" y="172" width="12" height="12" rx="3" fill="#239a3b" data-date="2026-05-15" data-count="22"/>
+<rect x="524" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-16" data-count="0"/>
+<rect x="540" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-17" data-count="0"/>
+<rect x="540" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-18" data-count="0"/>
+<rect x="540" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-19" data-count="0"/>
+<rect x="540" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-20" data-count="0"/>
+<rect x="540" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-21" data-count="0"/>
+<rect x="540" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-22" data-count="0"/>
+<rect x="540" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-23" data-count="0"/>
+<rect x="556" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-24" data-count="0"/>
+<rect x="556" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-25" data-count="0"/>
+<rect x="556" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-26" data-count="0"/>
+<rect x="556" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-27" data-count="0"/>
+<rect x="556" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-28" data-count="0"/>
+<rect x="556" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-29" data-count="0"/>
+<rect x="556" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-30" data-count="0"/>
+<rect x="572" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-05-31" data-count="0"/>
+<rect x="572" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-01" data-count="0"/>
+<rect x="572" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-02" data-count="0"/>
+<rect x="572" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-03" data-count="0"/>
+<rect x="572" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-04" data-count="0"/>
+<rect x="572" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-05" data-count="0"/>
+<rect x="572" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-06" data-count="0"/>
+<rect x="588" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-07" data-count="0"/>
+<rect x="588" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-08" data-count="0"/>
+<rect x="588" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-09" data-count="0"/>
+<rect x="588" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-10" data-count="0"/>
+<rect x="588" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-11" data-count="0"/>
+<rect x="588" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-12" data-count="0"/>
+<rect x="588" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-13" data-count="0"/>
+<rect x="604" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-14" data-count="0"/>
+<rect x="604" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-15" data-count="0"/>
+<rect x="604" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-16" data-count="0"/>
+<rect x="604" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-17" data-count="0"/>
+<rect x="604" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-18" data-count="0"/>
+<rect x="604" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-19" data-count="0"/>
+<rect x="604" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-20" data-count="0"/>
+<rect x="620" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-21" data-count="0"/>
+<rect x="620" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-22" data-count="0"/>
+<rect x="620" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-23" data-count="0"/>
+<rect x="620" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-24" data-count="0"/>
+<rect x="620" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-25" data-count="0"/>
+<rect x="620" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-26" data-count="0"/>
+<rect x="620" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-27" data-count="0"/>
+<rect x="636" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-28" data-count="0"/>
+<rect x="636" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-29" data-count="0"/>
+<rect x="636" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-06-30" data-count="0"/>
+<rect x="636" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-01" data-count="0"/>
+<rect x="636" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-02" data-count="0"/>
+<rect x="636" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-03" data-count="0"/>
+<rect x="636" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-04" data-count="0"/>
+<rect x="652" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-05" data-count="0"/>
+<rect x="652" y="108" width="12" height="12" rx="3" fill="#c6e48b" data-date="2026-07-06" data-count="1"/>
+<rect x="652" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-07" data-count="0"/>
+<rect x="652" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-08" data-count="0"/>
+<rect x="652" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-09" data-count="0"/>
+<rect x="652" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-10" data-count="0"/>
+<rect x="652" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-11" data-count="0"/>
+<rect x="668" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-12" data-count="0"/>
+<rect x="668" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-13" data-count="0"/>
+<rect x="668" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-14" data-count="0"/>
+<rect x="668" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-15" data-count="0"/>
+<rect x="668" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-16" data-count="0"/>
+<rect x="668" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-17" data-count="0"/>
+<rect x="668" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-18" data-count="0"/>
+<rect x="684" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-19" data-count="0"/>
+<rect x="684" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-20" data-count="0"/>
+<rect x="684" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-21" data-count="0"/>
+<rect x="684" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-22" data-count="0"/>
+<rect x="684" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-23" data-count="0"/>
+<rect x="684" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-24" data-count="0"/>
+<rect x="684" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-25" data-count="0"/>
+<rect x="700" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-26" data-count="0"/>
+<rect x="700" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-27" data-count="0"/>
+<rect x="700" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-28" data-count="0"/>
+<rect x="700" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-29" data-count="0"/>
+<rect x="700" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-30" data-count="0"/>
+<rect x="700" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-07-31" data-count="0"/>
+<rect x="700" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-01" data-count="0"/>
+<rect x="716" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-02" data-count="0"/>
+<rect x="716" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-03" data-count="0"/>
+<rect x="716" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-04" data-count="0"/>
+<rect x="716" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-05" data-count="0"/>
+<rect x="716" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-06" data-count="0"/>
+<rect x="716" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-07" data-count="0"/>
+<rect x="716" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-08" data-count="0"/>
+<rect x="732" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-09" data-count="0"/>
+<rect x="732" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-10" data-count="0"/>
+<rect x="732" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-11" data-count="0"/>
+<rect x="732" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-12" data-count="0"/>
+<rect x="732" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-13" data-count="0"/>
+<rect x="732" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-14" data-count="0"/>
+<rect x="732" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-15" data-count="0"/>
+<rect x="748" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-16" data-count="0"/>
+<rect x="748" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-17" data-count="0"/>
+<rect x="748" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-18" data-count="0"/>
+<rect x="748" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-19" data-count="0"/>
+<rect x="748" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-20" data-count="0"/>
+<rect x="748" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-21" data-count="0"/>
+<rect x="748" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-22" data-count="0"/>
+<rect x="764" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-23" data-count="0"/>
+<rect x="764" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-24" data-count="0"/>
+<rect x="764" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-25" data-count="0"/>
+<rect x="764" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-26" data-count="0"/>
+<rect x="764" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-27" data-count="0"/>
+<rect x="764" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-28" data-count="0"/>
+<rect x="764" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-29" data-count="0"/>
+<rect x="780" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-30" data-count="0"/>
+<rect x="780" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-08-31" data-count="0"/>
+<rect x="780" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-01" data-count="0"/>
+<rect x="780" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-02" data-count="0"/>
+<rect x="780" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-03" data-count="0"/>
+<rect x="780" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-04" data-count="0"/>
+<rect x="780" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-05" data-count="0"/>
+<rect x="796" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-06" data-count="0"/>
+<rect x="796" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-07" data-count="0"/>
+<rect x="796" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-08" data-count="0"/>
+<rect x="796" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-09" data-count="0"/>
+<rect x="796" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-10" data-count="0"/>
+<rect x="796" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-11" data-count="0"/>
+<rect x="796" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-12" data-count="0"/>
+<rect x="812" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-13" data-count="0"/>
+<rect x="812" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-14" data-count="0"/>
+<rect x="812" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-15" data-count="0"/>
+<rect x="812" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-16" data-count="0"/>
+<rect x="812" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-17" data-count="0"/>
+<rect x="812" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-18" data-count="0"/>
+<rect x="812" y="188" width="12" height="12" rx="3" fill="#c6e48b" data-date="2026-09-19" data-count="1"/>
+<rect x="828" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-20" data-count="0"/>
+<rect x="828" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-21" data-count="0"/>
+<rect x="828" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-22" data-count="0"/>
+<rect x="828" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-23" data-count="0"/>
+<rect x="828" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-24" data-count="0"/>
+<rect x="828" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-25" data-count="0"/>
+<rect x="828" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-26" data-count="0"/>
+<rect x="844" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-27" data-count="0"/>
+<rect x="844" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-28" data-count="0"/>
+<rect x="844" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-29" data-count="0"/>
+<rect x="844" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-09-30" data-count="0"/>
+<rect x="844" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-01" data-count="0"/>
+<rect x="844" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-02" data-count="0"/>
+<rect x="844" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-03" data-count="0"/>
+<rect x="860" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-04" data-count="0"/>
+<rect x="860" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-05" data-count="0"/>
+<rect x="860" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-06" data-count="0"/>
+<rect x="860" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-07" data-count="0"/>
+<rect x="860" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-08" data-count="0"/>
+<rect x="860" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-09" data-count="0"/>
+<rect x="860" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-10" data-count="0"/>
+<rect x="876" y="92" width="12" height="12" rx="3" fill="#196127" data-date="2026-10-11" data-count="44"/>
+<rect x="876" y="108" width="12" height="12" rx="3" fill="#196127" data-date="2026-10-12" data-count="32"/>
+<rect x="876" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-13" data-count="0"/>
+<rect x="876" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-14" data-count="0"/>
+<rect x="876" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-15" data-count="0"/>
+<rect x="876" y="172" width="12" height="12" rx="3" fill="#c6e48b" data-date="2026-10-16" data-count="1"/>
+<rect x="876" y="188" width="12" height="12" rx="3" fill="#7bc96f" data-date="2026-10-17" data-count="14"/>
+<rect x="892" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-18" data-count="0"/>
+<rect x="892" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-19" data-count="0"/>
+<rect x="892" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-20" data-count="0"/>
+<rect x="892" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-21" data-count="0"/>
+<rect x="892" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-22" data-count="0"/>
+<rect x="892" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-23" data-count="0"/>
+<rect x="892" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-24" data-count="0"/>
+<rect x="908" y="92" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-25" data-count="0"/>
+<rect x="908" y="108" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-26" data-count="0"/>
+<rect x="908" y="124" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-27" data-count="0"/>
+<rect x="908" y="140" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-28" data-count="0"/>
+<rect x="908" y="156" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-29" data-count="0"/>
+<rect x="908" y="172" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-30" data-count="0"/>
+<rect x="908" y="188" width="12" height="12" rx="3" fill="#ebedf0" data-date="2026-10-31" data-count="0"/></g>
+  <g transform="translate(76 82)"><g class="runner">
+      <g class="monster" transform="translate(0 0) scale(2)">
+        <!-- striped pelt and body -->
+        <path d="M5 9 2 7 3 5 6 6 8 4 12 5 15 7 18 7 20 10 19 14 17 15 16 19 13 19 12 16 9 16 8 19 5 19 5 16 3 15 4 12 2 11Z" fill="#e8eef8" stroke="#26325c" stroke-width=".8" stroke-linejoin="round"/>
+        <!-- tail, forelegs, paws -->
+        <path d="m5 13-3-1-2 2 1 3 4-1M7 14l-1 4h3l1-3m4-1 1 4h3l-1-5" fill="#dce5f3" stroke="#26325c" stroke-width=".8" stroke-linejoin="round"/>
+        <path d="m6 18-1 2h4l1-2m3 0 1 2h4l-1-2" fill="#f4f5fa" stroke="#26325c" stroke-width=".6" stroke-linejoin="round"/>
+        <!-- blue pelt stripes and head marking -->
+        <path d="m4 8 3 1-1 2-3-1m5-4 2 1-1 3-2-1m7-1 2 1-1 3-2-1m4 0 2 1-1 2-2-1m-9 3 3 1-1 2-3-1m7-2 2 1-1 2-2-1" fill="#3853a4"/>
+        <path d="M8 6 10 4l2 1 2 2-2 2H9Z" fill="#314b9a"/>
+        <!-- head, muzzle, eyes, and horn -->
+        <path d="m7 9 1-3 3-2 4 1 2 3 2 1-1 3-3 1-2-1-3 1-3-2Z" fill="#f4f5fa" stroke="#26325c" stroke-width=".8" stroke-linejoin="round"/>
+        <path d="m10 3 1-3h2l1 4-1 2h-2Z" fill="#f4cf36" stroke="#85651b" stroke-width=".6" stroke-linejoin="round"/>
+        <path d="M8 8 5 6 4 8l3 2m8-3 3-2 1 2-3 2" fill="#dce5f3" stroke="#26325c" stroke-width=".7" stroke-linejoin="round"/>
+        <path d="M9 8h2v2H9zM14 8h2v2h-2z" fill="#a9273e"/>
+        <path d="M10 8h1v1h-1zM15 8h1v1h-1z" fill="#111827"/>
+        <path d="m8 11 2-1h5l2 2-2 2h-5l-2-1Z" fill="#f4f5fa" stroke="#26325c" stroke-width=".6" stroke-linejoin="round"/>
+        <path d="m9 11 1 2 1-2m1 0 1 2 1-2" fill="#ffffff"/>
+        <path d="M11 12h2v1h-2z" fill="#18213e"/>
+        <!-- golden belly and claws -->
+        <path d="m9 13 2 1h3l1 2-2 1h-4l-1-2Z" fill="#f4d74b" stroke="#a17d20" stroke-width=".4"/>
+        <path d="m5 19 1-1 1 2m2 0 1-2 1 2m3 0 1-2 1 2m1 0 1-2 1 2" fill="none" stroke="#6d4c9a" stroke-width=".8" stroke-linecap="round"/>
+      </g></g></g>
+  <g transform="translate(76 221)">
+    <text x="0" y="0" class="month">Less</text>
+    <rect x="34" y="-10" width="12" height="12" rx="3" fill="#ebedf0"/>
+    <rect x="51" y="-10" width="12" height="12" rx="3" fill="#c6e48b"/>
+    <rect x="68" y="-10" width="12" height="12" rx="3" fill="#7bc96f"/>
+    <rect x="85" y="-10" width="12" height="12" rx="3" fill="#239a3b"/>
+    <rect x="102" y="-10" width="12" height="12" rx="3" fill="#196127"/>
+    <text x="122" y="0" class="month">More</text>
+  </g>
+</svg>
